@@ -17,4 +17,4 @@
 sed -i '$a src-git lienol https://github.com/xiaorouji/openwrt-passwall' feeds.conf.default
 sed -i '$a src-git jerryk https://github.com/jerrykuku/openwrt-package' feeds.conf.default
 sed -i '$a src-git adguardhome https://github.com/rufengsuixing/luci-app-adguardhome' feeds.conf.default
-sed -i '$a src-git openwrt-passwall https://github.com/xiaorouji/openwrt-passwall/' feeds.conf.default
+sed -i '$a src-git passwall https://github.com/xiaorouji/openwrt-passwall' feeds.conf.default
