@@ -18,4 +18,4 @@ sed -i '$a src-git lienol https://github.com/xiaorouji/openwrt-passwall' feeds.c
 sed -i '$a src-git jerryk https://github.com/jerrykuku/openwrt-package' feeds.conf.default
 # sed -i '$a src-git adguardhome https://github.com/rufengsuixing/luci-app-adguardhome' feeds.conf.default
 sed -i '$a src-git lede https://github.com/coolsnowwolf/openwrt-package' feeds.conf.default
-sed -i '$a src-git luci-app-ttnode https://github.com/jerrykuku/luci-app-ttnode.git' feeds.conf.default
+sed -i '$a src-git luci-app-ttnode https://github.com/jerrykuku/luci-app-ttnode' feeds.conf.default
